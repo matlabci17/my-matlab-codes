@@ -1,2 +1,2 @@
 # my-matlab-codes
-Merak ettiğim internette gördüğüm bazı basit kodları Matlab içerisinde kodlayıp uploadlarım.
+İnternette görüp merak ettiğim bazı basit kodları Matlab içerisinde kodlayıp buraya upload ediyorum.
