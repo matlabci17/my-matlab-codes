@@ -1,3 +1,4 @@
+("İSİM YAZDIRMA KODU DOSYASINDA KULLANILACAK FONSİYON")
 function harfyazdir(x)
 deger=double(x);
 arttiran=length(deger);
